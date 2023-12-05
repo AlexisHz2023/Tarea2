@@ -1,0 +1,2 @@
+Juan Pérez,Calle A, 123,Ciudad A,12345,555-123-456,30
+María López,Avenida B, 456,Ciudad B,67890,555-789-123,25
